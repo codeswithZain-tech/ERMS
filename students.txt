@@ -1,0 +1,5 @@
+CS101,Ali Khan,CS-3A,Computer Science,85,90,88,82,75,78,85
+CS102,Sara Ahmed,CS-3A,Computer Science,92,88,95,90,85,92,88
+EE201,Bilal Shah,EE-2A,Electrical Engineering,88,85,90,87,80,82,86
+CS103,Fatima Noor,CS-3B,Computer Science,95,92,96,94,90,93,97
+CS104,Hamza Mehmood,CS-3A,Computer Science,77,88,77,66,55,77,77
