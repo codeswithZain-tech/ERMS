@@ -1,7 +1,4 @@
-//Zain kashif			L1F23BSCS0516
-//Muhammad Ismail  		L1S24BSCS0088
-//Zain ali   				L1S24BSCS0049
-
+//Zain kashif
 
 #include <iostream>
 #include <string>
